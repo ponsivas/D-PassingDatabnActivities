@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PassingDatabnActivities</string>
+    <string name="DPH">Data Passed Here</string>
+    <string name="info">The TextView, EditText and the Title Bar of this Second Activity is Passed with the Value Collected From the First Activity</string>
+    <string name="CREATOR">App by Dr. P. Sivaram</string>
+</resources>
